@@ -1,0 +1,73 @@
+2016-07-15 21:46:27  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 08:58:00  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01756: 引号内的字符串没有正确结束
+
+2016-07-16 08:58:00  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01756: 引号内的字符串没有正确结束
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:47  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:50  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:50  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:50  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:50  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:50  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:50  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:51  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 11:53:51  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 13:04:23  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-16 13:07:15  com.zd.book.util.DBHelper.find(DBHelper.java:260)  java.sql.SQLException: ORA-01722: 无效数字
+
+2016-07-17 22:06:12  com.zd.book.util.DBHelper.getConnection(DBHelper.java:42)  java.sql.SQLException: Io 异常: The Network Adapter could not establish the connection
+2016-07-17 22:07:07  com.zd.book.util.DBHelper.getConnection(DBHelper.java:42)  java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:orcl
+
+2016-07-17 22:07:12  com.zd.book.util.DBHelper.getConnection(DBHelper.java:42)  java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:orcl
+
+2016-07-17 22:07:18  com.zd.book.util.DBHelper.getConnection(DBHelper.java:42)  java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:orcl
+
+2016-07-17 22:07:35  com.zd.book.util.DBHelper.getConnection(DBHelper.java:42)  java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:orcl
+
+2016-08-16 21:51:41  com.zd.book.util.DBHelper.getConnection(DBHelper.java:42)  java.sql.SQLException: Io 异常: The Network Adapter could not establish the connection
+2016-08-29 10:31:15  com.zd.book.util.DBHelper.getConnection(DBHelper.java:42)  java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:orcl
+
